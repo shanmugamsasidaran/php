@@ -5,6 +5,8 @@ on:
       - master # or the name of your main branch
   pull_request:
     types: [opened, synchronize, reopened]
+  schedule:
+    - cron: "*/5 * * * *"
 jobs:
   build:
     name: Build
