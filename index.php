@@ -1,5 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
 <?php
-  include "test.php";
-  echo "index page";
-  for (i=0; $i<20; $i++)
-    echo $i."<br>";
+  echo "Index Page<br>";
+?>
+</body>
+</html>
