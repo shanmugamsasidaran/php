@@ -1,6 +1,5 @@
-<!DOCTYPE html>
 <html lang="en">
-  <title>Home</title>
+<title>Home</title>
 <body>
 <?php
   echo "Index Page<br>";
